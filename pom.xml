@@ -175,10 +175,9 @@
     </profiles>
 
     <repositories>
-        <repository>
-            <id>repository.spring.milestone</id>
-            <name>Spring Milestone Repository</name>
-        </repository>
+            <repository>
+                  <id>repository.spring.milestone</id>
+                  <url>https://repo.spring.io/milestone</url>
+            </repository>
     </repositories>
-
 </project>
