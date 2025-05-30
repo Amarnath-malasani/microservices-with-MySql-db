@@ -173,4 +173,10 @@
             </build>
         </profile>
     </profiles>
+    <repositories>
+        <repository>
+            <id>repository.spring.milestone</id>
+            <name>Spring Milestone Repository</name>
+        </repository>
+    </repositories>
 </project>
